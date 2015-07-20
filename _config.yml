@@ -27,10 +27,9 @@ left_nav_available_apis:
   url: tariff-rates.html
 - text: FAQs on Exporting
   url: faqs-exporting.html
-- text: ITA Offices & Centers
-  url: ita-office-locations.html
-- text: Trade News & Articles
-  url: ita-trade-articles.html
+- text: List of all APIs
+  url: api-list.html
+
 
 mobile_nav_available_apis:
 - text: Market Research Library
@@ -45,10 +44,8 @@ mobile_nav_available_apis:
   url: tariff-rates.html
 - text: FAQs on Exporting
   url: faqs-exporting.html
-- text: ITA Offices & Centers
-  url: ita-office-locations.html
-- text: Trade News & Articles
-  url: ita-trade-articles.html
+- text: List of all APIs
+  url: api-list.html
   
 mobile_nav_additional_resources:
 - text: Guidance
@@ -57,11 +54,11 @@ mobile_nav_additional_resources:
   url: contact.html
 - text: App Gallery
   url: app-gallery.html
+- text: API List
+  url: api-list.html
 - text: API FAQs
   url: api-faqs.html
 - text: Change Log
   url: change-log.html
 - text: Terms of Service
   url: tos.html
-  
-  
