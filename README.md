@@ -29,7 +29,7 @@ Visit the following links for more detailed information on how to set up Ruby us
 
 Three Ways of Installing Ruby (Linux/Unix)
 http://www.ruby-lang.org/en/downloads/
- 
+
 RubyInstaller for Windows
 http://rubyinstaller.org/
 
@@ -37,7 +37,7 @@ How to Install Ruby on a Mac
 http://net.tutsplus.com/tutorials/ruby/how-to-install-ruby-on-a-mac/
 
 
-## Install rubygems: 
+## Install rubygems:
 
 - `cd ~/`
 - `wget http://production.cf.rubygems.org/rubygems/rubygems-1.8.24.tgz`
@@ -50,7 +50,7 @@ http://net.tutsplus.com/tutorials/ruby/how-to-install-ruby-on-a-mac/
 
 We recommend using Bundler to manage dependencies. Once you have Ruby installed, install Bundler by running the following command: 'gem install bundler'
 
-Once Bundler is installed, you install/update depencies by simply running 'bundle install' within your project folder.
+Once Bundler is installed, you install/update dependencies by simply running 'bundle install' within your project folder.
 
 More information on Bundler may be found here: http://gembundler.com/
 
@@ -77,5 +77,5 @@ https://github.com/mojombo/jekyll
 
 ## Generate the site and serve
 
-- `jekyll serve --baseurl ''` (or whatever base url you will be using, e.g. '/DeveloperPortal')
+- `bundle exec jekyll serve --baseurl ''` (or whatever base url you will be using, e.g. '/DeveloperPortal')
 - Browse to [localhost:4000](http://localhost:4000) to view the site
