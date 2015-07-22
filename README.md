@@ -29,7 +29,7 @@ Visit the following links for more detailed information on how to set up Ruby us
 
 Three Ways of Installing Ruby (Linux/Unix)
 http://www.ruby-lang.org/en/downloads/
-
+ 
 RubyInstaller for Windows
 http://rubyinstaller.org/
 
@@ -37,7 +37,7 @@ How to Install Ruby on a Mac
 http://net.tutsplus.com/tutorials/ruby/how-to-install-ruby-on-a-mac/
 
 
-## Install rubygems:
+## Install rubygems: 
 
 - `cd ~/`
 - `wget http://production.cf.rubygems.org/rubygems/rubygems-1.8.24.tgz`
